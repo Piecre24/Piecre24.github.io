@@ -1,9 +1,25 @@
-body{
-    background-color: grey;
-
+body {
+    background-color: whitesmoke;
 }
 
-h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 
+h1 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.main-header {
+    background-color: midnightblue;
+    padding: 30px;
+    margin-bottom: 100px;
+    color: white;
+    display: block;
+    background-size: cover;
+    height: 50px;
+    padding: 50px;
+}
+
+.blog-image 
+{
+    width: 225px;
+    border-radius: 150px;
 }

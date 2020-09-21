@@ -9,12 +9,12 @@ h1 {
 
 .main-header {
     background-color: midnightblue;
+    width: 20vw;
     padding: 30px;
     margin-bottom: 100px;
     color: white;
     display: block;
     background-size: cover;
-    height: 50px;
     padding: 50px;
 }
 

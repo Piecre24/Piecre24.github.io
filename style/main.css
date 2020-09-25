@@ -9,13 +9,14 @@ h1 {
 
 .main-header {
     background-color: midnightblue;
-    width: 100vw;
+    width: 95vw;
     padding: 30px;
     margin-bottom: 100px;
     color: white;
     display: block;
     background-size: cover;
     padding: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
@@ -23,7 +24,36 @@ h1 {
 
     display: block;
     padding: 10px;
-    magrin
+}
+
+
+table {
+    background-color: white;
+    border-collapse: separate;
+    box-sizing: border-box;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    text-align: start;
+    border-spacing: 120px;
+    border-color: grey;
+    font-variant: normal;
+    margin-right: 15%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
 }
 
 .blog-image 

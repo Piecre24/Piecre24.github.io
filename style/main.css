@@ -10,7 +10,7 @@ h1 {
 .main-header 
 {
     background-color: midnightblue;
-    width: 95vw;
+    width: 100%;
     padding: 30px;
     margin-bottom: 100px;
     color: white;
@@ -23,11 +23,16 @@ h1 {
 
 .main_content 
 {
-
     display: block;
     padding: 10px;
 }
 
+.body_text 
+{
+    width: 80%;
+    margin: auto;
+    height: auto;
+}
 
 table {
     background-color: white;
